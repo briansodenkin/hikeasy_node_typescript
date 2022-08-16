@@ -1,4 +1,4 @@
-# Hikeasy Backend using Node + Typescript + Mysql
+# Hikeasy Backend using Node + Typescript + Mysql + TypeOrm
 
 ## How to start the backend
 
